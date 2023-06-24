@@ -10,12 +10,12 @@ The details of the coverage is as follows
 
 Welcome to **AlphaLab** community!
 
-Discuss AlphaLab via [Slack Channel](https://join.slack.com/t/mlfinanceblue-q2l7730/shared_invite/zt-1wo8hfy2p-yAbac40uaYAxPSSjpxIBmg).
+Discuss AlphaLab via [Discord Community](https://discord.gg/DwwqBc9nX).
 
 
-<a href="https://join.slack.com/t/ai4financeworkspace/shared_invite/zt-v670l1jm-dzTgIT9fHZIjjrqprrY0kg" target="\_blank">
+<a href="https://discord.gg/DwwqBc9nX" target="\_blank">
 	<div align="left">
-		<img src=https://ubwp.buffalo.edu/happe/wp-content/uploads/sites/92/2019/12/slack_logo.png alt=slack-channel width="15%"/>
+		<img src=https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg alt=discord-community width="25%"/>
 	</div>
 </a>
 

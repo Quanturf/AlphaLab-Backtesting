@@ -2,11 +2,11 @@
 
 Welcome to the AlphaLab-Backtesting community! We're excited to have you on board. This document provides guidelines on how to contribute to the project.
 
-## Joining our Slack Community
+## Joining our Discord Community
 
-tl;dr: Join our Slack community, be courteous, and follow the steps below to set up a development environment. If you stick around and contribute, you may have the opportunity to join the team and gain commit access.
+tl;dr: Join our Discord community, be courteous, and follow the steps below to set up a development environment. If you stick around and contribute, you may have the opportunity to join the team and gain commit access.
 
-To join our Slack community, please visit [Slack Invitations](https://join.slack.com/t/mlfinanceblue-q2l7730/shared_invite/zt-1wo8hfy2p-yAbac40uaYAxPSSjpxIBmg) and request an invitation. Once you're in, you can engage in discussions, ask questions, and collaborate with other community members.
+To join our Discord community, please visit [Discord Invitations](https://discord.gg/DwwqBc9nX) and request an invitation. Once you're in, you can engage in discussions, ask questions, and collaborate with other community members.
 
 ## Ways to Contribute
 
